@@ -1,0 +1,4 @@
+baseURL = "https://bestpianooriginal8.vercel.app"
+languageCode = "en-us"
+title = "Best Piano Sheet Music"
+theme = "tale-hugo-master"
